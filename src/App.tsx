@@ -1,7 +1,9 @@
+import UserList from './components/UserList'
+
 function App() {
   return (
     <div className="App">
-      <h1>React Redux TypeScript</h1>
+      <UserList />
     </div>
   )
 }
